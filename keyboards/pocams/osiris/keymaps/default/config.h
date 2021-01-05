@@ -16,3 +16,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 #pragma once
+
+#define ONESHOT_TAP_TOGGLE 50  // I don't want the oneshot modifiers to lock
