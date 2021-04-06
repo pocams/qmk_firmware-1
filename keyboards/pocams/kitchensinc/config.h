@@ -18,7 +18,7 @@
 #define MATRIX_ROW_PINS { B4, E6, D7, C6, D4, D0, D1 }
 #define MATRIX_COL_PINS { B5, F4, F5, F6, F7, B1, B3, B2, B6 }
 //#define MATRIX_ROW_PINS_RIGHT { B1, B2, D2, F1, F4 }
-//#define MATRIX_COL_PINS_RIGHT { D4, D7, D3, B7, F0, B3 }
+#define MATRIX_COL_PINS_RIGHT { B6, B2, B3, B1, F7, F6, F5, F4, B5 }
 //#define SPLIT_HAND_PIN D5
 
 // Detect handedness by a flag in eeprom, set when flashing
